@@ -1,0 +1,14 @@
+body {
+    font-family: Impact, Charcoal, sans-serif;
+    padding: 3%;
+}
+
+header {
+    text-align: center;
+}
+
+#addOn {
+    border: 5px solid black;
+    height: 18%;
+    padding: 3%;
+}
